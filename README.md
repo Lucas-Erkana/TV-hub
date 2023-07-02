@@ -1,6 +1,10 @@
 <a name="readme-top"></a>
-
+ 
+ <div align="center">
+ <img src="images/tv-hub_logo.png" alt="logo" width="140"  height="auto" />
+</div>
 <div align="left">
+
   <h1>Project: TV Hub</h1>
 
 ## In this milestone We will Create the TV hub with APIs:
