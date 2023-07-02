@@ -5,8 +5,7 @@
 
 ## In this milestone We will Create the TV hub: with APIs:
 
-> TV Hub! A user-friendly web app where you can easily search for and find all the information you need about any show, including detailed descriptions and ratings.
-
+>  TV Hub is a TV show database website that displays all the information about a show including the description and the rating of the show. You can search for a show, like it, and comment on any of your favorite shows. This project consumed TVmaze API.
 </div>
 
 <!-- TABLE OF CONTENTS -->
