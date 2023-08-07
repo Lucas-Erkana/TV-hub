@@ -94,7 +94,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="https://lucash2022.github.io/TV-hub/dist/" target="_blank">Live Demo Link</a>
+- <a href="https://Lucas-Erkana.github.io/TV-hub/dist/" target="_blank">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +166,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <h4>Lucas Erkana</h4>
 
-<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Lucash2022)
+<img src="/images/github.svg" alt="logo" width="18"  height="18" />[githubhandle](https://github.com/Lucas-Erkana)
 <br>
 <img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [twitterhandle](https://twitter.com/@Lucas_David_22)
 <br>
